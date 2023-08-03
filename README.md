@@ -1,6 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Shaik adnan yousuf</h1>
 <h3 align="center">A passionate frontend developer and mobile app developer from India</h3>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv9jfsm7AczhDsZuloD8wiWy8RYome3D_x5g&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-adnan1&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-adnan1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-adnan1" alt="shaik-adnan1" /></a> </p>
