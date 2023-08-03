@@ -1,8 +1,7 @@
-<h1 align="center">Hello there 👋, I'm Shaik adnan yousuf</h1>
+<h1 align="center">Hello there 👋, I'm Shaik Adnan Yousuf</h1>
 <h3 align="center">A passionate frontend developer and mobile app developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-adnan1&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-adnan1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-adnan1" alt="shaik-adnan1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-adnan1&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-adnan1" /> </p>
 
 - 🔭 I’m currently working on [Peer Mentoring committee](https://github.com/shaik-adnan1/pmcwebsitemain.git)
 
@@ -16,7 +15,7 @@
 
 - 📄 Know about my experiences [https://turquoise-sybyl-72.tiiny.site](https://turquoise-sybyl-72.tiiny.site)
 
-- ⚡ Fun fact **There are more planes in water than submarines in air🙆‍♂️.**
+- ⚡ Fun fact **"There are more planes in water than submarines in air🙆‍♂️"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
