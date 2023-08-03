@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Shaik Adnan Yousuf</h1>
-<h3 align="center">A passionate frontend developer and mobile app developer from India</h3>
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER AND MOBILE APP DEVEOPER FROM INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-adnan1&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-adnan1" /> </p>
 
