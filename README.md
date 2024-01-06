@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yousufwrk0@gmail.com**
 
-- 📄 Know about my experiences [resume Link](https://drive.google.com/file/d/10lvG7eXfXNYaeTqJyDNya1MAnxEQ-8NW/view?usp=sharing)
+- 📄 Know about my experiences [resume Link](https://drive.google.com/file/d/1jWsz_iZ7uMxsF4AE2UWOMg3LvQUMb2BE/view?usp=drive_link)
 
 - ⚡ Fun fact **"There are more planes in water than submarines in air🙆‍♂️"**
 
