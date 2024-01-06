@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-adnan1&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-adnan1" /> </p>
 
-- 🔭 I’m currently working on [NASA MISSION CONTROL](https://github.com/shaik-adnan1/NASA_MISSION_CONTROL.git))
+- 🔭 I’m currently working on [NASA MISSION CONTROL](https://github.com/shaik-adnan1/NASA_MISSION_CONTROL.git)
 
 - 🌱 I’m currently learning **Node.js and Related backend stuff.**
 
