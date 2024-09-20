@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-adnan1" alt="shaik-adnan1" /></a> </p>
 
-- 🔭 I’m currently working on [NASA MISSION CONTROL](https://github.com/shaik-adnan1/NASA_MISSION_CONTROL.git)
+- 🔭 I’m currently working on [VeloCity](https://github.com/shaik-adnan1/Velocity-fe.git)
 
 - 🌱 I’m currently learning **Next.js, ShadCn,Auth_s and DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shaik-adnan1](https://github.com/shaik-adnan1)
+- 👨‍💻 All of my projects are available at [my open Repos](https://github.com/shaik-adnan1?tab=repositories)
 
 - 💬 Ask me about **Mern Stack, Cars, Anime and Non-fictional books**
 
