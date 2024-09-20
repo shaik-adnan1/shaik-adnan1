@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, ShadCn,Auth_s and DSA**
 
-- 👨‍💻 All of my projects are available at [my open Repos](https://github.com/shaik-adnan1?tab=repositories)
+- 👨‍💻 All of my projects are available at my open [Repos](https://github.com/shaik-adnan1?tab=repositories)
 
 - 💬 Ask me about **Mern Stack, Cars, Anime and Non-fictional books**
 
